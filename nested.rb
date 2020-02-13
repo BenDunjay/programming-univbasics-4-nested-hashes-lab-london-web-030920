@@ -136,7 +136,11 @@ def adding_to_dennis
         }
      }
 
+<<<<<<< HEAD
 programmer_hash[:dennis_ritchie][:languages][1] ="Assembly"
+=======
+programmer_hash[:dennis_ritchie][:languages] ="Assembly"
+>>>>>>> 25494670a04549c65fb99f4fffd351b37971ba90
 
 programmer_hash
 
